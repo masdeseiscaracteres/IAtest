@@ -15,8 +15,8 @@ function [nT nR d K] = system_str2vec(str)
 % University of Cantabria (Spain)
 
 %Read system parameters from string
-str2=regexprep(str, ')[^\^]', ')^1(');
-str_final=regexprep(str2, ')$', ')^1');
+str2=regexprep(str, '\)[^\^]', ')^1(');
+str_final=regexprep(str2, '\)$', ')^1');
 aux=sscanf(str_final,'(%dx%d,%d)^%d',[4 Inf]);
 nTi=aux(1,:);
 nRi=aux(2,:);
