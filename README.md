@@ -2,20 +2,22 @@ Interference alignment feasibility test
 =========================================
 What you can find here is a Matlab/Octave implementation of a feasibility test for interference alignment in MIMO interference channels with constants coefficients. It is a direct implementation of the floating point test proposed in the paper
 
-> Ó. González, C. Beltrán, I. Santamaría, "*A Feasibility Test for Linear Interference Alignment in MIMO Channels with Constant Coefficients*," IEEE Transactions on Information Theory, to be published, 2014.
+> Ó. González, C. Beltrán, I. Santamaría, "*A Feasibility Test for Linear Interference Alignment in MIMO Channels with Constant Coefficients*," IEEE Transactions on Information Theory, to be published.
 
 If you do not feel like downloading the code and want to see how it works in a simple scenario, you are invited to try our [online demo][1]. Note that our demo is executed in a backend server running Octave and, due to server limitations, it is constrained to a total number of 450 antennas and 100 streams. Besides, depending on the server workload these limits can sometimes be more restrictive. If you want to check the feasibility of larger systems you will need the code herein.
 
-The code has been developed and copyrighted © 2014 by [Óscar González][2]. It is distributed under the terms of the BSD (3-Clause) License.  In short, this means that everyone is free to use it, to modify it and to redistribute it on a free basis. It is not in the public domain; it is copyrighted and there are restrictions on its distribution (see LICENSE.txt).
+The code has been developed and copyrighted © 2014 by [Óscar González][2]. It is distributed under the terms of the BSD (3-Clause) License.  In short, this means that everyone is free to use it, to modify it and to redistribute it on a free basis. It is not in the public domain; it is copyrighted and there are restrictions on its distribution (see [LICENSE.txt](LICENSE.txt)).
 
-We welcome contributions, bug reports and feedback. Let us know what you think! If you use the code for your research, please cite the [paper][3]
+We welcome contributions, bug reports and feedback. Let us know what you think! If you use the code for your research, please cite the [paper][3]:
 
-    @article{GBS2014,
-    title={A Feasibility Test for Linear Interference Alignment in MIMO Channels with Constant Coefficients},
-    author={Óscar González and Carlos Beltrán and Ignacio Santamaría},
-    journal={IEEE Transactions on Information Theory, to be published},
-    year={2014},
-    }
+	@article{Gonzalez_Beltran_Santamaria_2014,
+	title={A Feasibility Test for Linear Interference Alignment in {MIMO} Channels with Constant Coefficients},
+	journal={IEEE Transactions on Information Theory},
+	author={{\'O}scar Gonz{\'a}lez and Carlos Beltr{\'a}n and Ignacio Santamar{\'\i}a},
+	year={to be published},
+	url={http://dx.doi.org/10.1109/TIT.2014.2301440},
+	DOI={10.1109/TIT.2014.2301440}
+	}
 
 ----------
 
