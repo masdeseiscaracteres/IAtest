@@ -45,8 +45,8 @@ function [Feasible resid] = check_IA_feasibility(nT,nR,d,K,Adj,options)
 %
 %   Ó. González, C. Beltrán and I. Santamaría, "A Feasibility Test for 
 %   Linear Interference Alignment in MIMO Channels with Constant 
-%   Coefficients", to be published in IEEE Transactions on Information 
-%   Theory, 2014.
+%   Coefficients", IEEE Transactions on Information Theory, vol. 60, no. 3,
+%   pp. 1840-1856, march 2014.
 
 % Copyright (c) 2014, Óscar González Fernández
 % All rights reserved.

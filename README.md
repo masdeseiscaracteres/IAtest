@@ -2,7 +2,7 @@ Interference alignment feasibility test
 =========================================
 What you can find here is a Matlab/Octave implementation of a feasibility test for interference alignment in MIMO interference channels with constants coefficients. It is a direct implementation of the floating point test proposed in the paper
 
-> Ó. González, C. Beltrán, I. Santamaría, "*A Feasibility Test for Linear Interference Alignment in MIMO Channels with Constant Coefficients*," IEEE Transactions on Information Theory, to be published.
+> Ó. González, C. Beltrán, I. Santamaría, "*A Feasibility Test for Linear Interference Alignment in MIMO Channels with Constant Coefficients*," IEEE Transactions on Information Theory, vol. 60, no. 3, pp. 1840-1856, march 2014.
 
 If you do not feel like downloading the code and want to see how it works in a simple scenario, you are invited to try our [online demo][1]. Note that our demo is executed in a backend server running Octave and, due to server limitations, it is constrained to a total number of 450 antennas and 100 streams. Besides, depending on the server workload these limits can sometimes be more restrictive. If you want to check the feasibility of larger systems you will need the code herein.
 
@@ -12,9 +12,13 @@ We welcome contributions, bug reports and feedback. Let us know what you think! 
 
 	@article{Gonzalez_Beltran_Santamaria_2014,
 	title={A Feasibility Test for Linear Interference Alignment in {MIMO} Channels with Constant Coefficients},
-	journal={IEEE Transactions on Information Theory},
 	author={{\'O}scar Gonz{\'a}lez and Carlos Beltr{\'a}n and Ignacio Santamar{\'\i}a},
-	year={to be published},
+	journal={IEEE Transactions on Information Theory},
+	volume = {60},
+	number = {3},
+	month = mar,
+	pages = {1840-1856},
+	year={2014},
 	url={http://dx.doi.org/10.1109/TIT.2014.2301440},
 	DOI={10.1109/TIT.2014.2301440}
 	}
