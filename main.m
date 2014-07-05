@@ -3,12 +3,12 @@
 % interference alignment in MIMO interference channels with constant
 % coefficients whose details can be found in:
 %
-%   ”. Gonz·lez, C. Beltr·n and I. SantamarÌa, "A Feasibility Test for 
-%   Linear Interference Alignment in MIMO Channels with Constant 
-%   Coefficients", to be published in IEEE Transactions on Information 
-%   Theory, 2014.
+%   √ì. Gonz√°lez, C. Beltr√°n and I. Santamar√≠a, "A Feasibility Test for
+%   Linear Interference Alignment in MIMO Channels with Constant
+%   Coefficients," IEEE Transactions on Information Theory,
+%   vol. 60, no. 3, pp. 1840-1856, Mar. 2014.
 %
-% Copyright (c) 2014, ”scar Gonz·lez Fern·ndez
+% Copyright (c) 2014, √ìscar Gonz√°lez Fern√°ndez
 % All rights reserved.
 % Advanced Signal Processing Group (GTAS)
 % University of Cantabria (Spain)
