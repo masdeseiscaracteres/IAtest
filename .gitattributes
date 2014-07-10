@@ -1,0 +1,4 @@
+[core]
+	autocrlf=false
+
+*.m	diff=matlab
