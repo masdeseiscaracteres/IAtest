@@ -37,4 +37,4 @@ This software contains the following Matlab/Octave files:
 
   [1]: http://gtas.unican.es/IAtest
   [2]: http://gtas.unican.es/people/oscargf
-  [3]: http://gtas.unican.es/pub/336
+  [3]: http://dx.doi.org/10.1109/TIT.2014.2301440
